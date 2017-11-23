@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136240085527",
+    "firebase_url": "https://notificaciondos-94e2c.firebaseio.com",
+    "project_id": "notificaciondos-94e2c",
+    "storage_bucket": "notificaciondos-94e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136240085527:android:24864b3373083546",
+        "android_client_info": {
+          "package_name": "com.planetmedia.notificaciondos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136240085527-moi4270u4s40bu5843hbhr0p62qvo8k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planetmedia.notificaciondos",
+            "certificate_hash": "0a0bf845f95cb43f105067b52dbb64472a6267e8"
+          }
+        },
+        {
+          "client_id": "136240085527-qu9cujr32452qt9hmfmhv3s2jk1kqhb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_44pgAIpDdbCjds3bX0vJysk3K4ljDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136240085527-qu9cujr32452qt9hmfmhv3s2jk1kqhb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
